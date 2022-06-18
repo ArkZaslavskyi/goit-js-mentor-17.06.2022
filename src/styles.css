@@ -165,7 +165,7 @@ body.dark-theme {
   font-size: 20px;
 }
 
-.card__price i {
+.card__price--icon {
   margin-right: 8px;
   font-size: 24px;
 }
